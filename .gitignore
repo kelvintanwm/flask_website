@@ -25,6 +25,7 @@
 *.log
 *.sql
 *.sqlite
+*.db
 __pycache__
 
 # OS generated files #
