@@ -1,2 +1,2 @@
 # website
- This repository will serve as a foundation of website building using flask package in python
+ This repository will serve as a foundation of website building using Flask package in Python and will be my Portfolio website as well
